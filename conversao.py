@@ -1,4 +1,4 @@
-metros=int(input('Digite a quantidade de metros: '))
-metros= metros * 100
+metros = int(input('Digite a quantidade de metros: '))
+conversao = metros * 100
 
-print(metros,'Cm')
+print(conversao,'Cm')
